@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "project2.sln",
+    "projects": [
+      "ki.csproj"
+    ]
+  }
+}
